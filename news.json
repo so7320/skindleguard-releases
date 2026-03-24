@@ -1,0 +1,19 @@
+{
+  "updated_at": 1711324800,
+  "posts": [
+    {
+      "id": "2026-03-24-bienvenue",
+      "date": "2026-03-24",
+      "title": "Bienvenue sur SkindleGuard",
+      "body": "SkindleGuard est votre client de sauvegarde pour Skindlebay.\n\nVos donnees sont chiffrees et sauvegardees automatiquement vers le stockage S3.\n\n- **Sauvegarde** : automatique selon la frequence configuree\n- **Restauration** : parcourez vos snapshots et restaurez fichier par fichier\n- **Tests** : verifiez l'integrite de vos sauvegardes regulierement",
+      "level": "info"
+    },
+    {
+      "id": "2026-03-24-test",
+      "date": "2026-03-24",
+      "title": "Contenu de test",
+      "body": "Ceci est une news de test pour valider le systeme de publication.\n\nElle sera remplacee par de vraies actualites du service.",
+      "level": "warning"
+    }
+  ]
+}
