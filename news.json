@@ -1,12 +1,19 @@
 {
-  "updated_at": 1742918400,
+  "updated_at": 1742929200,
   "posts": [
+    {
+      "id": "2026-03-25-v031",
+      "date": "2026-03-25",
+      "title": "Mise a jour — version 0.3.1",
+      "body": "Une nouvelle version est disponible avec plusieurs ameliorations :\n\n- Le numero de version s'affiche sur l'ecran de demarrage\n- Les messages d'alerte utilisent des durees plus lisibles (\"2 jours\" au lieu de \"48h\")\n- L'assistant de creation de profil pre-remplit le dossier de stockage a partir du nom\n- Correction d'un probleme lors de la suppression d'un profil\n\nLa mise a jour se fait automatiquement au lancement.",
+      "level": "info"
+    },
     {
       "id": "2026-03-25-v030",
       "date": "2026-03-25",
-      "title": "Mise a jour disponible — version 0.3.0",
-      "body": "Une nouvelle version de SkindleGuard est disponible.\n\n**Nouveautes :**\n- L'espace utilise sur votre espace de stockage est maintenant affiche en temps reel\n- Un bouton **Historique** permet de visualiser l'evolution de votre consommation\n- Les mises a jour peuvent etre verifiees et installees depuis l'onglet Parametres\n\nLa mise a jour se fait automatiquement au lancement de l'application. Vous pouvez aussi la declencher manuellement dans **Parametres > Mises a jour**.",
-      "level": "warning"
+      "title": "Mise a jour — version 0.3.0",
+      "body": "**Nouveautes :**\n- L'espace utilise sur votre espace de stockage est maintenant affiche en temps reel\n- Un bouton **Historique** permet de visualiser l'evolution de votre consommation\n- Les mises a jour peuvent etre verifiees et installees depuis l'onglet Parametres",
+      "level": "info"
     },
     {
       "id": "2026-03-24-bienvenue",
