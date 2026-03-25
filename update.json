@@ -1,15 +1,15 @@
 {
-  "version": "0.3.0",
-  "notes": "Quota bucket reel (rust-s3), auto-update, reorganisation Parametres",
-  "pub_date": "2026-03-25T15:04:42Z",
+  "version": "0.3.1",
+  "notes": "Fix suppression profil, version sur splash, durees humaines, wizard ameliore",
+  "pub_date": "2026-03-25T19:20:40Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.3.0/SkindleGuard_0.3.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3JnR2pDVncrZmZtczA4Z01oR21aOWsyR0tpYVhsbG1XSVBQSjZPM3FyaSs2L0xsbjV5N3N6TVFTLzR1Z0dZdlpERmFHdi9yYkNMbkpiVCt1S0x1dlNOTW1VTXU2eVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDUwOTEyCWZpbGU6U2tpbmRsZUd1YXJkXzAuMy4wX3g2NC1zZXR1cC5leGUKcXNIbldwL3NJMDdhdENoSFIxSUhLUHV0RDdCMCt3ZnNBeWVwdjRVU3FJVDVEN0J1Y0ZoKzROYWk1WXFLMG9qTDM5YWsxc3Uvdk9heW9oWG1vcW9LQlE9PQo="
+      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.3.1/SkindleGuard_0.3.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3JnR2pDVncrZlo5dmRMTmcvbm5mRXcxMms3ZFJyd2VkS0h3N2gxRE51a1Z0OXlRUDhEOVhVMDZ5ZXpsaGVYanNXYTU4SThTQW9HTmRhUmdJZHMvL2pScUxxbTY3OHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDY2MjcxCWZpbGU6U2tpbmRsZUd1YXJkXzAuMy4xX3g2NC1zZXR1cC5leGUKVVh0dEZsbUM2by95M0VOUU5MUmJlaFdUdGQ5TnA4T25nYmhzeDZjcEJhSkR6SUtyeTEybVlBL0NLQkNJWWhVMUlwSGZrVVd1NldPSVNhdWc2V1NCQ0E9PQo="
     },
     "linux-x86_64": {
-      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.3.0/SkindleGuard_0.3.0_amd64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3JnR2pDVncrZlFjLzRRUmFvVis3VGkzMDZWZC9wNEI4bEk2V0NyNGRaNFFSM2d2OXdneUYrRlFhZnFGOUZORTB3cWQ2Ylg0ekJnSnNSYUJvNG5DR2ZDMmU1ZlFpU2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDUwOTQwCWZpbGU6U2tpbmRsZUd1YXJkXzAuMy4wX2FtZDY0LkFwcEltYWdlCmRvWExQTkxaS1pxbWFGRVpBVUs1RXcwVjY3SkJBMWJaTWtLV0FVSDJ3ZjRjTnRTN0ZlanN5QjVzaWJRRjBtUzI0TDAvUUM4MDlLbHlGWDNRaXhWZEFBPT0K"
+      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.3.1/SkindleGuard_0.3.1_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3JnR2pDVncrZlE4SkduUTA2TXA2NzJ2YVNaWXUxalVhRXFCTXNNS2kzVkpMYzBhS3FsSFQ5cy81eHhVOVVQb1MxeVZ4SjhyUld2ZndReml1bG95ck1qZ0xjOG8wa1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDY2MzAzCWZpbGU6U2tpbmRsZUd1YXJkXzAuMy4xX2FtZDY0LkFwcEltYWdlCi9ucGJDdHVLd1Q5aVVIWEhxNm5XaCtQakVVci80TUhCTGdKaFcwWGd5NGN5cTZibmdaYTB1NXkyMVFTN3U3UXJkVWpZcnVFalpuaGt6b0lRQXhBYUNBPT0K"
     }
   }
 }
