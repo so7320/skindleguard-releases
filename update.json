@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "notes": "Integration auto-update (tauri-plugin-updater)",
+  "pub_date": "2026-03-25T12:14:07Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.2.0/SkindleGuard_0.2.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3JnR2pDVncrZlUvRGVXa2RWS3NNRFNvQTVhc3VhOUptMmxwTzcyaFNtMmJRNHMzOVJ3anJ0a2xLK3hzTEFVWTgwVlVjMEp0UlY3WjNrMnIyR3k2L2Q2eklDeWk3TGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDQwNDc5CWZpbGU6U2tpbmRsZUd1YXJkXzAuMi4wX3g2NC1zZXR1cC5leGUKR2hDb3c1N1Izb3Y5aEp1bGdsTWVzbUR1Zy9scWNJRnBXU25DOTlKaWwycjAvMDBWd01GRHVvcWphWUVveGpuMUMzdEszVXFLQzdVcTlnSXljakF1QWc9PQo="
+    },
+    "linux-x86_64": {
+      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.2.0/SkindleGuard_0.2.0_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3JnR2pDVncrZlJkbjlCeUtnZWFjWDdzemtGbDFFZWI4MXR5dUpiY2JFT3M2V1NDd1cwWWVUcERDZFRReUJ6SDRuNjFNdjJqQXFCODhuK2NMZVpEUU5XNE0rZlQ4YkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDQwNTkyCWZpbGU6U2tpbmRsZUd1YXJkXzAuMi4wX2FtZDY0LkFwcEltYWdlCmJFR2E1YmFoeEFuSCtEQ3c4bnFDSTFOdmNPb2RvUTRuVGM1L1NIS3BHQ3hvbkxPUFdSV1hndjdTSFNZLyttR29Vd3hvMXI5d3g0R1B0a1dIaFEvS0NRPT0K"
+    }
+  }
+}
