@@ -1,15 +1,11 @@
 {
-  "version": "0.3.1",
-  "notes": "Fix suppression profil, version sur splash, durees humaines, wizard ameliore",
-  "pub_date": "2026-03-25T19:20:40Z",
+  "version": "0.4.0",
+  "notes": "Verification approfondie, barres de progression, logs verbeux, timeout centralise",
+  "pub_date": "2026-03-26T11:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.3.1/SkindleGuard_0.3.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3JnR2pDVncrZlo5dmRMTmcvbm5mRXcxMms3ZFJyd2VkS0h3N2gxRE51a1Z0OXlRUDhEOVhVMDZ5ZXpsaGVYanNXYTU4SThTQW9HTmRhUmdJZHMvL2pScUxxbTY3OHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDY2MjcxCWZpbGU6U2tpbmRsZUd1YXJkXzAuMy4xX3g2NC1zZXR1cC5leGUKVVh0dEZsbUM2by95M0VOUU5MUmJlaFdUdGQ5TnA4T25nYmhzeDZjcEJhSkR6SUtyeTEybVlBL0NLQkNJWWhVMUlwSGZrVVd1NldPSVNhdWc2V1NCQ0E9PQo="
-    },
-    "linux-x86_64": {
-      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.3.1/SkindleGuard_0.3.1_amd64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3JnR2pDVncrZlE4SkduUTA2TXA2NzJ2YVNaWXUxalVhRXFCTXNNS2kzVkpMYzBhS3FsSFQ5cy81eHhVOVVQb1MxeVZ4SjhyUld2ZndReml1bG95ck1qZ0xjOG8wa1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDY2MzAzCWZpbGU6U2tpbmRsZUd1YXJkXzAuMy4xX2FtZDY0LkFwcEltYWdlCi9ucGJDdHVLd1Q5aVVIWEhxNm5XaCtQakVVci80TUhCTGdKaFcwWGd5NGN5cTZibmdaYTB1NXkyMVFTN3U3UXJkVWpZcnVFalpuaGt6b0lRQXhBYUNBPT0K"
+      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.4.0/SkindleGuard_0.4.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3JnR2pDVncrZlNPcHY5MzNEYit0TU5DckNnWkc4T0pWdDZtUGVMd0lQcU4yU0dlblBUa04wNndwdDBvaTU0STNSaUdGQ2NWZHRqMzQ2dG0vcG1pRHFqckFEb25QWmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTIyMTM5CWZpbGU6U2tpbmRsZUd1YXJkXzAuNC4wX3g2NC1zZXR1cC5leGUKNVJ3dTlnNDF2bmY5NlROT1FRQ3NTUWw1Z0s2N1p1eDBUbHpBTkthaFo0TXdnQWNsTmRSWm1SM0IydDFIVDVMcUpEZ2o2SFZXZTFheWliOWFCUFhyQnc9PQo="
     }
   }
 }
