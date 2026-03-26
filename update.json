@@ -4,10 +4,12 @@
   "pub_date": "2026-03-26T15:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.4.1/SkindleGuard_0.4.1_x64-setup.exe"
+      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.4.1/SkindleGuard_0.4.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3JnR2pDVncrZmVLL3UxUUtNcUdvM1BvU2RFa25sZEwvNXBHempTL2lnRlhwYk9yQ2tSOWphTjlYWU1Vd01kVmljYXpyOXdwYmNlM0FMSk4vSHNhSlRjS0EyUDQwTlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTUzMjA5CWZpbGU6U2tpbmRsZUd1YXJkXzAuNC4xX3g2NC1zZXR1cC5leGUKMmNYa09BYmF4Ty9NaWthMWZuYjE1ODdERy9TUTcrY0J2dmdDdWRjeFREeG5VblhhM0k2Mi9vTlhLSStxc3IzYkhaTmxIcC8rKzU1U3M4YWVsWjczQVE9PQo="
     },
     "linux-x86_64": {
-      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.4.1/SkindleGuard_0.4.1_amd64.AppImage"
+      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.4.1/SkindleGuard_0.4.1_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3JnR2pDVncrZlJzbnNVMnU4VnBySDRyNjFMWEJZNnMwaWthOXhWbUtpaSsvM0lXU3lnZ2pPdHRITzRvalFrMURxcEp5TUxWZkZQcjlaL3NwMSt6MW5Ya0JBWXFCeEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTUzMjczCWZpbGU6U2tpbmRsZUd1YXJkXzAuNC4xX2FtZDY0LkFwcEltYWdlCmxIWjhXVFhEU1FIZVc0cVFTMVhqaFA1a1ZmYnV4RUJsZFZHbVlsYlpBSG1vK2xoUXc1VjhLZGpWczVVN0VrdmE0L242L2ZPRnVWaWpjVjA0ckVYOEFBPT0K"
     }
   }
 }
