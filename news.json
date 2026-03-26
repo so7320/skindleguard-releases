@@ -1,6 +1,13 @@
 {
-  "updated_at": 1743066000,
+  "updated_at": 1774553391,
   "posts": [
+    {
+      "id": "2026-03-26-v041",
+      "date": "2026-03-26",
+      "title": "Mise a jour — version 0.4.1",
+      "body": "**Nouveautes :**\n- **Navigation arborescente** dans l’onglet Restauration : parcourez vos dossiers sauvegardes comme un explorateur de fichiers\n- **Barre de progression** pendant la restauration de fichiers\n- **Bouton Rafraichir** dans l’onglet News pour forcer la mise a jour des actualites",
+      "level": "info"
+    },
     {
       "id": "2026-03-26-v040",
       "date": "2026-03-26",
