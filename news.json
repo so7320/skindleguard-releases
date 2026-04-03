@@ -1,6 +1,13 @@
 {
-  "updated_at": 1774553391,
+  "updated_at": 1775196323,
   "posts": [
+    {
+      "id": "2026-04-03-v042",
+      "date": "2026-04-03",
+      "title": "Mise a jour — version 0.4.2",
+      "body": "**Nouveautes :**\n- **Meteo globale** : l'onglet Meteo affiche desormais la sante de tous vos profils en meme temps, plus besoin de switcher\n- **Nouveau scoring** : la note tient compte de votre frequence de sauvegarde configuree et de 3 niveaux de tests (integrite, restauration, verification complete) avec degradation progressive\n- **Selection de jour** : cliquez sur un jour dans le calendrier pour voir le detail des scores de chaque profil\n- **Cache par profil** : le retour sur un profil deja visite est instantane, plus besoin d'attendre le chargement\n- **Prefetch au demarrage** : tous les profils sont pre-charges au lancement de l'application",
+      "level": "info"
+    },
     {
       "id": "2026-03-26-v041",
       "date": "2026-03-26",
