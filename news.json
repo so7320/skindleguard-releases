@@ -1,10 +1,17 @@
 {
-  "updated_at": 1775549527,
+  "updated_at": 1775578549,
   "posts": [
+    {
+      "id": "2026-04-07-v044",
+      "date": "2026-04-07",
+      "title": "Mise a jour \u2014 version 0.4.4",
+      "body": "**Nettoyage et qualite de code** suite a un audit complet :\n\n- **Securite** : Content Security Policy (CSP) activee\n- **Fiabilite** : acces a la base de donnees uniformise (plus de panic possible sur le verrouillage)\n- **Retention** : la logique de retry en cas de lock restic est desormais partagee entre backup manuel et planifie\n- **Corrections** : formatage des tailles (To manquant), formatage des durees (annees manquantes), mot reserve TypeScript corrige\n- **Menage** : code mort supprime, dependances inutilisees retirees, types et utilitaires frontend mutualises",
+      "level": "info"
+    },
     {
       "id": "2026-04-07-v043",
       "date": "2026-04-07",
-      "title": "Mise a jour — version 0.4.3",
+      "title": "Mise a jour ï¿½ version 0.4.3",
       "body": "**Nouveautes :**\n- **Migration SQLite** : toutes les donnees (profils, historique, configuration) sont desormais stockees dans une base SQLite unique, plus fiable et plus rapide\n- **Secrets chiffres** : vos credentials S3 sont automatiquement chiffres, meme en mode agent\n- **Monitoring du scheduler** : chaque decision du planificateur de sauvegardes est tracee pour faciliter le diagnostic\n- **Test de restauration ameliore** : le fichier teste est desormais choisi aleatoirement (plus representatif)\n\n**Technique :**\n- Les anciens fichiers de configuration (profile.toml, journal.json, activity.json) sont remplaces par la base SQLite",
       "level": "info"
     },
