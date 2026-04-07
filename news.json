@@ -1,6 +1,13 @@
 {
-  "updated_at": 1775196323,
+  "updated_at": 1775549527,
   "posts": [
+    {
+      "id": "2026-04-07-v043",
+      "date": "2026-04-07",
+      "title": "Mise a jour — version 0.4.3",
+      "body": "**Nouveautes :**\n- **Migration SQLite** : toutes les donnees (profils, historique, configuration) sont desormais stockees dans une base SQLite unique, plus fiable et plus rapide\n- **Secrets chiffres** : vos credentials S3 sont automatiquement chiffres, meme en mode agent\n- **Monitoring du scheduler** : chaque decision du planificateur de sauvegardes est tracee pour faciliter le diagnostic\n- **Test de restauration ameliore** : le fichier teste est desormais choisi aleatoirement (plus representatif)\n\n**Technique :**\n- Les anciens fichiers de configuration (profile.toml, journal.json, activity.json) sont remplaces par la base SQLite",
+      "level": "info"
+    },
     {
       "id": "2026-04-03-v042",
       "date": "2026-04-03",
