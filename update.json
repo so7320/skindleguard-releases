@@ -1,15 +1,15 @@
 {
-  "version": "0.4.3",
-  "notes": "Migration SQLite, scheduler log, test restauration aleatoire",
-  "pub_date": "2026-04-07T00:00:00Z",
+  "version": "0.4.8",
+  "notes": "Securite mot de passe, config S3 editable, scoring meteo, tests auto post-backup",
+  "pub_date": "2026-04-08T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.4.3/SkindleGuard_0.4.3_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3JnR2pDVncrZlErUGlSWGUzVzBEZi9QUXpMdHJuNXovdkhoeUFvQ3F6OXZVeDNCMisxM0syRm13dmdsODJlcGNMdTlnSWVacDVmcDhvL2RYWEEwRXJZMlVlQ3FodWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTQ5MjY2CWZpbGU6U2tpbmRsZUd1YXJkXzAuNC4zX3g2NC1zZXR1cC5leGUKbnRhYTh4M0dmN0IwQXBNR2JGdEkrazBEdG5pTjlOQThVZmtIanlwMm9mZVJqb2dSeTU3bFp0bmUrZmpzMkRNVmgyU0xKbGtuQmc3K1JMcjlwaXFUQWc9PQo="
+      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.4.8/SkindleGuard_0.4.8_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3JnR2pDVncrZmM2cjd4cXZBOFlrOUFyczNDUE4rMDA2MXovRTAzZkw3NWlhK0dtNkZza295dVArNWFMZ0ptcHo4WmxZMVk2cEkvLzgzOWdyNitSakRUMXd5MjVrS1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjQ0ODAxCWZpbGU6U2tpbmRsZUd1YXJkXzAuNC44X3g2NC1zZXR1cC5leGUKZzdXcHZUZUJ5V2EwQ2Q0RmZVVy9oV01EWi9rUFZUQ09QeFdqRnVKRlU0ZHB6WEkxMitlemQ2V3JtcGg2VlBxbVBrL0RBSnZzRS91Nkg0MGFhN0hlQkE9PQo="
     },
     "linux-x86_64": {
-      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.4.3/SkindleGuard_0.4.3_amd64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3JnR2pDVncrZlhJeEhBeW43cnZxVDlCYlFTaEJsbmtmUjlkNE9VVU9yN3FTR0gya2l0b0hscHV5YXJlWElUSk1RcGEzaVVSOVVvTnduSFBPZmk1SVlsNHlrYkM0TGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTQ5MzE2CWZpbGU6U2tpbmRsZUd1YXJkXzAuNC4zX2FtZDY0LkFwcEltYWdlCjgwZVFmeXpRVG14RWNZQjFGekx3MUxKUk9ybDNzNWVPSkxORzV6OHA3ZGZ0emx5eFNEUVRFTDlCaUVVbEZPc2FkODU4Ky9UbEU2UGhNa1RsbDFUOEJBPT0K"
+      "url": "https://github.com/so7320/skindleguard-releases/releases/download/v0.4.8/SkindleGuard_0.4.8_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL3JnR2pDVncrZllBQjcra2Z4R3NBL3JhelV2ZUhXOGhWZkxjZGhJYk1LL3FrK0FXbjFMRytBMXZxMFVQTDVYdHhNbGR0Q09ITEpxZVIxZVIxUzJYTHZpQW5ubjRDVVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjQ0ODIzCWZpbGU6U2tpbmRsZUd1YXJkXzAuNC44X2FtZDY0LkFwcEltYWdlCmFHei9CejNTQmpaSDd1MndJUm16bmV2TXdJV2J6cVBhdmdGUXphdmVYS1JzUGhPUEErT2U0K0JmWWp4c2VtV2t4bTc4cGhkNW03UXhtdWtZTDRpcEJBPT0K"
     }
   }
 }

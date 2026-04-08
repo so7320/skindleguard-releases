@@ -1,6 +1,34 @@
 {
-  "updated_at": 1775578549,
+  "updated_at": 1775644800,
   "posts": [
+    {
+      "id": "2026-04-08-v048",
+      "date": "2026-04-08",
+      "title": "Mise a jour — version 0.4.8",
+      "body": "**Securite :**\n- **Verification du mot de passe** : un nouveau test dans l'onglet Tests permet de verifier que vous connaissez votre mot de passe de sauvegarde\n- **Entropie minimale** : le mot de passe restic doit atteindre 80 bits d'entropie\n- **Protection anti-ecrasement** : le mot de passe est recharge depuis la base si la memoire est vide\n\n**Configuration :**\n- **S3 editable** : endpoint, bucket et credentials sont modifiables dans les parametres\n- **Quota retire** : la valeur quota (serveur) n'est plus affichee dans les parametres\n\n**Scoring meteo :**\n- Nouveau segment mot de passe (6 pts, ideal 180j, critique 365j)\n- Barres de score ajustees (47 / 15.67 / 6)",
+      "level": "info"
+    },
+    {
+      "id": "2026-04-07-v047",
+      "date": "2026-04-07",
+      "title": "Mise a jour — version 0.4.7",
+      "body": "**Qualite frontend :**\n- **Decomposition** : SetupWizard, Dashboard et SettingsTab sont decomposes en sous-composants plus maintenables\n- **Corrections** : 5 blocs catch vides critiques corriges (les erreurs sont maintenant logguees)\n- **Extraction** : LogsViewer devient un composant independant",
+      "level": "info"
+    },
+    {
+      "id": "2026-04-07-v046",
+      "date": "2026-04-07",
+      "title": "Mise a jour — version 0.4.6",
+      "body": "**Nouveautes :**\n- **Tests automatiques** : apres chaque sauvegarde, un test d'integrite et une restauration aleatoire sont lances automatiquement\n- **Toggles UI** : activez ou desactivez les tests automatiques depuis les parametres\n- **Refresh cache** : le cache se met a jour automatiquement apres un backup\n- **Spinner de chargement** : indicateur visuel pendant le rafraichissement du cache",
+      "level": "info"
+    },
+    {
+      "id": "2026-04-07-v045",
+      "date": "2026-04-07",
+      "title": "Mise a jour — version 0.4.5",
+      "body": "**Ameliorations techniques :**\n- **Audit complet** : tous les points P2 a P10 de l'audit de code sont resolus\n- **Helper base de donnees** : acces uniforme via with_db (29 sites migres)\n- **CSP activee** : Content Security Policy pour renforcer la securite\n- **Menage** : code mort supprime, warnings cargo elimines, dependances inutiles retirees",
+      "level": "info"
+    },
     {
       "id": "2026-04-07-v044",
       "date": "2026-04-07",
