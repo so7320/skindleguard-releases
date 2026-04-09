@@ -1,6 +1,13 @@
 {
-  "updated_at": 1775644800,
+  "updated_at": 1744156800,
   "posts": [
+    {
+      "id": "2026-04-09-v050",
+      "date": "2026-04-09",
+      "title": "Mise a jour — version 0.5.0",
+      "body": "**Nouveautes :**\n- **Explorateur de versions** : depuis un snapshot, retrouvez toutes les versions d'un fichier sauvegardees dans le depot (via restic find)\n- **Nouveau panneau** : le detail des versions s'affiche dans un panneau dedie dans l'onglet Restauration\n\n**Technique :**\n- **Restic 0.18.1** : mise a jour du moteur de sauvegarde (depuis 0.17.3)",
+      "level": "info"
+    },
     {
       "id": "2026-04-08-v048",
       "date": "2026-04-08",
